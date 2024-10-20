@@ -184,5 +184,14 @@ The review suggestion process provides negotiation advice based on the contents 
 - **Cleaning and Formatting the Response**:
   - The `clean_and_format_to_json_Suggestion_Endpoint` function is used to convert the LLM’s output into a valid JSON format, addressing any common formatting issues.
   - The final output is a JSON list of suggestions, ready to be returned to the user.
+  - **Result  of End Point**:
+  - ### Key Clause Identification (PDF Response)
+![PDF Response Identify Clause](sandbox:/mnt/data/pdf_response_identify%20clause.JPG)
+
+### Key Clause Identification (DOCX Response)
+![DOCX Response Identify Clause](sandbox:/mnt/data/docx_response_Identify%20clause.JPG)
+
+### Review Suggestions (DOCX)
+![DOCX Review](sandbox:/mnt/data/docx_review.JPG)
 
 
