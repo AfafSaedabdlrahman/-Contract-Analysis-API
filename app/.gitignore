@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Local configuration files
+*.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Uploads directory
+/uploads/
+
+# Compiled files
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Other common files to ignore
+*.DS_Store
+*.bak
+*.swp
