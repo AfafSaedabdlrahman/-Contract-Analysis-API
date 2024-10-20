@@ -1,0 +1,5 @@
+{
+  "mock_url": "http://localhost:8000/contracts/WoArFGae80_SampleContract-Shuttle.pdf",
+  "contract_type": "PDF",
+  "message": "Contract upload simulated successfully."
+}
