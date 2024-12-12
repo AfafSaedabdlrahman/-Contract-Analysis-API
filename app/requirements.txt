@@ -6,6 +6,5 @@ python-dotenv
 python-docx
 fastapi 
 PyMuPDF
-fastapi
 google-generativeai
 
